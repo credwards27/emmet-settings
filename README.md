@@ -1,4 +1,4 @@
-# Emmet Configs
+# Emmet Configuration Settings
 
 Shared configuration files for Emmet.
 
