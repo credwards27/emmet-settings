@@ -7,8 +7,10 @@
     },
     
     "html": {
+        "profile": "xhtml",
         "abbreviations": {
-            "link:css": "<link rel=\"stylesheet\" type=\"text/css\" href=\"\" />"
+            "link:css": "<link rel=\"stylesheet\" type=\"text/css\" href=\"${2}\" media=\"${1:screen}\" />",
+            "script:js": "<script type=\"${1:application}/javascript\" src=\"\"></script>"
         }
     }
 }
