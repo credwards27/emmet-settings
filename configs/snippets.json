@@ -1,6 +1,6 @@
 {
     "css": {
-        "snippets": {
+        "abbreviations": {
             "css": "@charset \"UTF-8\";\n\n/* Meta */\n\nbody {\n\tmargin: 0;\n}\nbody * {\n\t-webkit-box-sizing: border-box;\n\t-moz-box-sizing: border-box;\n\tbox-sizing: border-box;\n}\n\n/* Layout */\n",
             "scss": "@charset \"UTF-8\";\n\n/* Imports */\n\n/* Meta */\n\nbody {\n\tmargin: 0;\n\t\n\t* {\n\t\t-webkit-box-sizing: border-box;\n\t\t-moz-box-sizing: border-box;\n\t\tbox-sizing: border-box;\n\t}\n}\n\n/* Layout */\n"
         }
